@@ -1,0 +1,54 @@
+$^1$ Department of Astronomy, Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan\\
+$^2$ Astrobiology Center, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan\\
+$^3$ National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan\\
+$^4$ Universidad de Chile, Camino el Observatorio, 1515, Las Condes, Santiago, Chile\\
+$^5$ University of Southern Queensland, Centre for Astrophysics, West Street, Toowoomba, QLD 4350 Australia\\
+$^6$ Department of Astrophysical Sciences, Princeton University, 4 Ivy Lane, Princeton, NJ 08544, USA\\
+$^7$ Department of Astronomy, University of Florida, 211 Bryant Space Science Center, Gainesville, FL, 32611, USA\\
+$^8$ Department of Physics, University of Warwick, Coventry CV4 7AL, UK\\
+$^9$ NASA Exoplanet Science Institute, California Institute of Technology, Pasadena, CA 91106, USA\\
+$^10$ Department of Physics and Institute for Research on Exoplanets, Universit{' e} de Montr{' e}al, Montr{' e}al, QC, Canada\\
+$^11$ Department of Physics, and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA\\
+$^12$ Department of Astronomy, The University of Texas at Austin, TX 78712, USA\\
+$^13$ CASA, University of Colorado, Boulder, CO 80309, USA\\
+$^14$ Las Cumbres Observatory, Goleta CA 93117, USA\\
+$^15$ Centre for Exoplanets and Habitability, University of Warwick, Coventry CV4 7AL, UK\\
+$^16$ Center for Astrophysics | Harvard \& Smithsonian, 60 Garden Street, Cambridge, MA 02138, USA\\
+$^17$ George Mason University, 4400 University Drive, Fairfax, VA, 22030, USA\\
+$^18$ KU Dept. of Physics and Astronomy, 1082 Malott, 1251 Wescoe Hall Dr. Lawrence, KS 66045, USA\\
+$^19$ NASA Astrobiology Institute's Virtual Planetary Laboratory, USA\\
+$^20$ Department of Astronomy, University of Maryland, College Park, MD 20742, USA\\
+$^21$ Department of Physics and Astronomy, University of New Mexico, 210 Yale Blvd NE, Albuquerque, NM 87106, USA\\
+$^22$ Department of Astronomy, University of California, Berkeley, Berkeley, CA, USA\\
+$^23$ Komaba Institute for Science, The University of Tokyo, 3-8-1 Komaba, Meguro, Tokyo 153-8902, Japan \\
+$^24$ Instituto de Astrof{' i}sica de Canarias, V{' i}a L{' a}ctea s/n, E-38205 La Laguna, Tenerife, Spain\\
+$^25$ Department of Astronomy and Tsinghua Centre for Astrophysics, Tsinghua University, Beijing 100084, China\\
+$^26$ Centro de Astrobiolog{' i}a (CSIC-INTA), Carretera de Ajalvir km 4, E-28850 Torrej{' o}n de Ardoz, Madrid, Spain\\
+$^27$ Wesleyan University, Middletown, CT 06459, USA\\
+$^28$ NASA Ames Research Center, Moffett Field, CA 94035, USA\\
+$^29$ Intelligent Systems Division, NASA Ames Research Center, Moffett Field, CA 94035, USA\\
+$^30$ Department of Astronomy, The Ohio State University, 4055 McPherson Laboratory, 140 West 18th Ave., Columbus, OH 43210, USA\\
+$^31$ Las Cumbres Observatory Global Telescope, 6740 Cortona Dr., Suite 102, Goleta, CA 93111, USA\\
+$^32$ Department of Earth and Planetary Sciences, University of California, Riverside, CA 92521, USA\\
+$^33$ Department of Physics and Astronomy, University of Louisville, Louisville, KY 40292, USA\\
+$^34$ School of Astronomy and Space Science, Key Laboratory of Modern Astronomy and Astrophysics in Ministry of Education, Nanjing University, Nanjing 210046, Jiangsu, China\\
+$^35$ Department of Physics, and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA02139, USA\\
+$^36$ Observatoire de Gen{' e}ve, Chemin Pegasi 51, 1290 Versoix, Switzerland\\
+$^37$ NASA Jet Propulsion Laboratory, Pasadena, CA, USA\\
+$^38$ Instituto de Astrof{' i}sica de Canarias, 38205 La Laguna, Tenerife, Spain\\
+$^39$ Department of Multi-Disciplinary Sciences, Graduate School of Arts and Sciences, The University of Tokyo, 3-8-1 Komaba, Meguro, Tokyo 153-8902, Japan\\
+$^40$ Department of Astronomical Science, The Graduated University for Advanced Studies, SOKENDAI, 2-21-1, Osawa, Mitaka, Tokyo, 181-8588, Japan\\
+$^41$ George Mason University, 4400 University Drive MS 3F3, Fairfax, VA 22030, USA\\
+$^42$ Department of Physics, University of California, Santa Barbara, CA 93106-9530, USA\\
+$^43$ Departamento de Matem{' a}tica y F{' i}sica Aplicadas, Universidad Cat{' o}lica de la Sant{' i}Â­sima Concepci{' o}n, Alonso de Rivera 2850, Concepci{' o}n, Chile\\
+$^44$ Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA\\
+$^45$ NASA Goddard Space Flight Center, 8800 Greenbelt Rd, Greenbelt, MD 20771, USA\\
+$^46$ Patashnick Voorheesville Observatory, Voorheesville, NY 12186, USA\\
+$^47$ Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA\\
+$^48$ Department of Aeronautics and Astronautics, MIT, 77 Massachusetts Avenue, Cambridge, MA 02139, USA\\
+$^49$ Department of Physics and Astronomy, Vanderbilt University, VU Station 1807, Nashville, TN 37235, USA\\
+$^50$ Department of Physics, Fisk University, Nashville, TN 37208, USA\\
+$^51$ Perth Exoplanet Survey Telescope, Perth, Western Australia\\
+$^52$ Exoplanetary Science at UNSW, School of Physics, UNSW Sydney, NSW 2052, Australia\\
+$^53$ NASA Jet Propulsion Laboratory: Pasadena, CA, USA\\
+$^54$ Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China\\
